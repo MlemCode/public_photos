@@ -1,16 +1,16 @@
 
-### About
+## About
 
 This is a custom control library for WPF.
 
-### Photo
+## Photo
 
 ![alt text](https://raw.githubusercontent.com/MlemCode/public_photos/refs/heads/main/SlimControls.PNG "Title")
-### Dependencies
+## Dependencies
 
 .NET Framework 4.5.2+
 
-### Installation
+## Installation
 
 You can install **SlimControls** via NuGet:
 
@@ -18,7 +18,7 @@ You can install **SlimControls** via NuGet:
 Install-Package SlimControls -Version 1.0.0
 ```
 
-### Usage
+## Usage
 
 ```cs
 <Window
@@ -34,7 +34,7 @@ Install-Package SlimControls -Version 1.0.0
 </Window>
 ```
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
