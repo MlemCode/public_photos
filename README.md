@@ -8,7 +8,7 @@ This is a custom control library for WPF.
 ![alt text](https://raw.githubusercontent.com/MlemCode/public_photos/refs/heads/main/SlimControls.PNG "Title")
 ### Dependencies
 
-**.NET Framework 4.5.2+**
+.NET Framework 4.5.2+
 
 ### Installation
 
