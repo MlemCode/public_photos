@@ -22,12 +22,12 @@ Install-Package SlimControls -Version 1.0.0
     ...
     xmlns:slim="clr-namespace:SlimControls;assembly=SlimControls">
     <Grid>
-		<StackPanel>
-			<slim:STextBox Width="200" Text="Normal"/>
-			<slim:STextBox Width="200" Text="0" Type="Number"/>
-			<slim:SButton Width="80" Content="Button" Type="Primary" />
-		</StackPanel>
-	</Grid>
+        <StackPanel>
+            <slim:STextBox Width="200" Text="Normal"/>
+            <slim:STextBox Width="200" Text="0" Type="Number"/>
+            <slim:SButton Width="80" Content="Button" Type="Primary" />
+        </StackPanel>
+    </Grid>
 </Window>
 ```
 
